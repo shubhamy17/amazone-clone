@@ -18,7 +18,7 @@ function Login() {
                     <button className="login__sing">Sign In</button>
                 </form>
                 <p>By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.</p>
-                <button className="login__crateacc">Create your Amazon Account</button>
+                {/* <button className="login__crateacc">Create your Amazon Account</button> */}
             </div>
         </div>
     )
